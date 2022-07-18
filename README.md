@@ -4,11 +4,9 @@ Line-to-line intersection algorithm.
 This project expects viewers to have an understanding of linear algebra because some of linear algebra topics are going to be used like systems of linear equations, determinants and Cramer's rule in linear equations.
 
 Resources
-Systems of Linear Equations
-https://www.mathsisfun.com/algebra/systems-linear-equations.html
+Systems of Linear Equations: https://www.mathsisfun.com/algebra/systems-linear-equations.html
 
-Standard Form For Linear Equations
-https://courses.wccnet.edu/~palay/precalc/22mt01.htm
+Standard Form For Linear Equations: https://courses.wccnet.edu/~palay/precalc/22mt01.htm
 
 Cramer's Rule
 
