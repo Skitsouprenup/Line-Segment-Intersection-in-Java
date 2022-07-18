@@ -11,8 +11,10 @@ Standard Form For Linear Equations
 https://courses.wccnet.edu/~palay/precalc/22mt01.htm
 
 Cramer's Rule
-https://www.coursehero.com/study-guides/boundless-algebra/determinants-and-cramers-rule/
-https://saylordotorg.github.io/text_intermediate-algebra/s06-06-determinants-and-cramer-s-rule.html
+
+Source #1: https://www.coursehero.com/study-guides/boundless-algebra/determinants-and-cramers-rule/
+
+Source #2: https://saylordotorg.github.io/text_intermediate-algebra/s06-06-determinants-and-cramer-s-rule.html
 
 This project is explained in this tutorial
 https://www.youtube.com/watch?v=p3hYp0639lc
